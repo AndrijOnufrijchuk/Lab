@@ -205,7 +205,7 @@ namespace ConsoleApplication1
            // RotateandSumm l1 = new RotateandSumm();
           //  FoldandSumm l2 = new FoldandSumm();
            // SieveOfEratosthenes l3 = new SieveOfEratosthenes();
-          //  CompareCharArrays l4 = new CompareCharArrays();
+          //  sCompareCharArrays l4 = new CompareCharArrays();
 
 
         }
