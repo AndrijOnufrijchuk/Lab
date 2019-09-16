@@ -1,0 +1,4 @@
+c:\users\администратор\documents\visual studio 2010\Projects\AndrushaTriesCsharp\AndrushaTriesCsharp\bin\Debug\AndrushaTriesCsharp.exe
+c:\users\администратор\documents\visual studio 2010\Projects\AndrushaTriesCsharp\AndrushaTriesCsharp\bin\Debug\AndrushaTriesCsharp.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\AndrushaTriesCsharp\AndrushaTriesCsharp\obj\x86\Debug\AndrushaTriesCsharp.exe
+c:\users\администратор\documents\visual studio 2010\Projects\AndrushaTriesCsharp\AndrushaTriesCsharp\obj\x86\Debug\AndrushaTriesCsharp.pdb
