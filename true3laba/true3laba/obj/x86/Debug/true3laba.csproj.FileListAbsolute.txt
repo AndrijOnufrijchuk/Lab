@@ -1,0 +1,4 @@
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\true3laba\true3laba\bin\Debug\true3laba.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\true3laba\true3laba\bin\Debug\true3laba.pdb
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\true3laba\true3laba\obj\x86\Debug\true3laba.exe
+C:\Users\Администратор\Documents\Visual Studio 2010\Projects\true3laba\true3laba\obj\x86\Debug\true3laba.pdb

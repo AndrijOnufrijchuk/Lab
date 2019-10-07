@@ -1,0 +1,4 @@
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\Laba_3\obj\x86\Debug\Laba_3.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\Laba_3\obj\x86\Debug\Laba_3.pdb

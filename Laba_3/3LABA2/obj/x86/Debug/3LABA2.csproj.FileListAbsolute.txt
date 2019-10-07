@@ -1,0 +1,4 @@
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\3LABA2\bin\Debug\3LABA2.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\3LABA2\bin\Debug\3LABA2.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\3LABA2\obj\x86\Debug\3LABA2.exe
+c:\users\администратор\documents\visual studio 2010\Projects\Laba_3\3LABA2\obj\x86\Debug\3LABA2.pdb
