@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\7-2\7-2\obj\Debug\7-2.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\7-2\7-2\bin\Debug\7-2.exe.config
+C:\Users\Администратор\source\repos\7-2\7-2\bin\Debug\7-2.exe
+C:\Users\Администратор\source\repos\7-2\7-2\bin\Debug\7-2.pdb
+C:\Users\Администратор\source\repos\7-2\7-2\obj\Debug\7-2.exe
+C:\Users\Администратор\source\repos\7-2\7-2\obj\Debug\7-2.pdb
