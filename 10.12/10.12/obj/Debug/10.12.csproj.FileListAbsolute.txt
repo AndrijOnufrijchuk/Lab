@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\10.12\10.12\obj\Debug\10.12.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\10.12\10.12\bin\Debug\10.12.exe.config
+C:\Users\Администратор\source\repos\10.12\10.12\bin\Debug\10.12.exe
+C:\Users\Администратор\source\repos\10.12\10.12\bin\Debug\10.12.pdb
+C:\Users\Администратор\source\repos\10.12\10.12\obj\Debug\10.12.exe
+C:\Users\Администратор\source\repos\10.12\10.12\obj\Debug\10.12.pdb
